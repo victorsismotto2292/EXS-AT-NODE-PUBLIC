@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nome": "X-Burger",
+      "preco": 14.5,
+      "categoria": "Lanche"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerante",
+      "preco": 6.0,
+      "categoria": "Bebida"
+    },
+    {
+      "id": 3,
+      "nome": "Batata Frita",
+      "preco": 8.0,
+      "categoria": "Acompanhamento"
+    }
+  ]
+  

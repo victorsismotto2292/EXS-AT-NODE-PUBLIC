@@ -1,0 +1,24 @@
+[
+    {
+      "id": 101,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "genero": "Romance",
+      "ano": 1899
+    },
+    {
+      "id": 102,
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "genero": "Fantasia",
+      "ano": 1937
+    },
+    {
+      "id": 103,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopia",
+      "ano": 1949
+    }
+  ]
+  

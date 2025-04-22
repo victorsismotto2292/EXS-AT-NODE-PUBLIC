@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atualizar dados de um carro clássico</title>
+</head>
+<body>
+    <h1>Formulário de atualização de dados de um carro clássico</h1>
+    <form action="http://localhost:3000/carros-classico/atualizar-carro" method="post">
+        <label for="nome">Nome do carro</label>
+        <input type="text" id="nome" name="nome" required><br><br>
+
+        <label for="desc">Descrição do carro</label>
+        <textarea name="desc" id="desc" required></textarea><br><br>
+
+        <label for="url_info">Url de Informações do carro</label>
+        <input type="text" id="url_info" name="url_info" required><br><br>
+
+        <button type="submit">Atualizar Dados</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nome": "Ana Clara",
+      "idade": 16,
+      "serie": "2º ano",
+      "turma": "B"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Marques",
+      "idade": 17,
+      "serie": "3º ano",
+      "turma": "A"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Eduardo",
+      "idade": 15,
+      "serie": "1º ano",
+      "turma": "C"
+    }
+  ]
+  
